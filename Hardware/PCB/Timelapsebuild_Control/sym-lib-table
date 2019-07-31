@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Timelapsebuild_Control-rescue)(type Legacy)(uri ${KIPRJMOD}/Timelapsebuild_Control-rescue.lib)(options "")(descr ""))
+)
