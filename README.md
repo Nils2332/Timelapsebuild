@@ -3,11 +3,11 @@
 
 A simple 4 digit stopwatch triggered by 2 remote Buttons<br />
 
-![Overview](https://github.com/Nils2332/Timelapsebuild/tree/master/Pictures/Slider-Example.gif)<br />
+![Overview](https://github.com/Nils2332/Timelapsebuild/blob/master/Pictures/Slider-Example.gif)<br />
 Demo of Moving System<br />
-![Main Body](https://github.com/Nils2332/Timelapsebuild/tree/master/Pictures/Motion-System.jpg)<br />
+![Main Body](https://github.com/Nils2332/Timelapsebuild/blob/master/Pictures/Motion-System.jpg)<br />
 Motion-System<br />
-![Animation Demo](https://github.com/Nils2332/Timelapsebuild/tree/master/Pictures/Remote-Controller.jpg)<br />
+![Animation Demo](https://github.com/Nils2332/Timelapsebuild/blob/master/Pictures/Remote-Controller.jpg)<br />
 Remote-Controller<br />
 ## Built With
 Motor Driver Board with STM32 Microcontroller and TMC2130 Stepper-Driver.<br />
